@@ -1,0 +1,15 @@
+details(name,age,weight):
+    print("Name is:",name)
+    print("Age:",age )
+    print("Weight is:",weight)
+  
+    
+def stu_marks(tamil,eng,science,social):
+    print("Tamil mark:",tamil)
+    print("Eng mark:",eng)
+    print("Science mark:",science)
+    print("Social mark:",social)
+    
+
+details("Vijay",21,60)
+stu_marks(65,80,77,92)
